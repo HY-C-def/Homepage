@@ -1,0 +1,116 @@
+.nav-link{
+    color: #76ABAE;
+}
+.color-three{
+    background-color: #EEEEEE;
+}
+.btn-close{
+    background-color: #EEEEEE;
+}
+.list-item{
+    color: #76ABAE;
+    text-decoration: none;
+    
+}
+.list-margin{
+    margin: 0px 0px 20px;
+    
+}
+a:hover {
+    color: #13c3ac;
+  }
+.oncolor:hover{
+    background-color: darkslategray;
+}
+
+.body-color{
+    background-color: #76ABAE;
+    color: #EEEEEE;
+}
+
+.title-padding{
+    padding: 40px 0px 20px;
+}
+.last-padding{
+    padding: 10px 0px 40px;
+}
+.table-line{
+    border-top: double 5px#76ABAE;
+    
+}
+.body-img{
+    background-image: url(./img/sakura_kaika.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.body-img-dark{
+    background-image: url(./img/sakura.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.cord-margin{
+    padding: 40px 150px 40px;
+}
+.text-margin{
+    margin: 40px 200px 10px;
+}
+.toumei{
+    background-color: rgba(255, 255, 255, 0.562);
+  }
+.toumei-dark{
+    background-color: rgba(1, 1, 1, 0.562);
+  }
+.text-toumei{
+    color: rgba(20, 100, 200, 0.562);
+}
+  .tx-blue{
+    color: #76ABAE;
+  }
+  .tx-tooblue{
+    color: blue;
+  }
+
+  .h-550{
+    height: 550px !important;
+    width: auto;
+    margin: auto;
+  }
+  .center-post{
+    vertical-align: middle !important;
+  }
+
+  .photo-under{
+    position: relative;
+    text-align: center;
+  }
+  .text-in{
+    position: absolute;
+    right: 15%;
+    left: 15%;
+    bottom: 30%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    text-align: center;
+  }
+  .flex-list{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;    
+    list-style: none;
+  }
+  .font{
+    font-family: 'FGゼロラバウル';
+    font-size: 35px;
+  }
+  .font-utukusi{
+    font-family: 'うつくし明朝体';
+  }
+
+  .list-margin{
+    margin: 2%  10% 2%;
+}
+.list-darkitem{
+  color: black;
+  text-decoration: none;
+  
+}
